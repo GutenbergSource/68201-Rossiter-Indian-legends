@@ -1,0 +1,18 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/front.jpg" filesize="243052" filedate="2022-05-29 10:45:16" width="932px" height="1440px"/>
+<image path="images/map.png" filesize="176766" filedate="2022-05-29 10:45:16" width="1440px" height="988px"/>
+<image path="images/plate01.jpg" filesize="509211" filedate="2022-05-29 10:45:16" width="1029px" height="1440px"/>
+<image path="images/plate02.jpg" filesize="482421" filedate="2022-05-29 10:45:16" width="1013px" height="1440px"/>
+<image path="images/plate03.jpg" filesize="35350" filedate="2022-05-29 10:45:16" width="1440px" height="88px"/>
+<image path="images/plate04.jpg" filesize="469594" filedate="2022-05-29 10:45:16" width="1048px" height="1440px"/>
+<image path="images/plate05.jpg" filesize="495378" filedate="2022-05-29 10:45:16" width="920px" height="1440px"/>
+<image path="images/plate06.jpg" filesize="66901" filedate="2022-05-29 10:45:16" width="1440px" height="357px"/>
+<image path="images/plate07.jpg" filesize="473189" filedate="2022-05-29 10:45:16" width="1440px" height="912px"/>
+<image path="images/plate08.jpg" filesize="493574" filedate="2022-05-29 10:45:16" width="1044px" height="1440px"/>
+<image path="images/plate09.jpg" filesize="92695" filedate="2022-05-29 10:45:16" width="1440px" height="291px"/>
+<image path="images/plate10.jpg" filesize="428536" filedate="2022-05-29 10:45:16" width="1440px" height="917px"/>
+<image path="images/plate11.jpg" filesize="232247" filedate="2022-05-29 10:45:16" width="662px" height="1440px"/>
+<image path="images/plate12.jpg" filesize="388605" filedate="2022-05-29 10:45:16" width="890px" height="1440px"/>
+<image path="images/qr68201.png" filesize="336" filedate="2022-05-29 19:32:25" width="296px" height="296px"/>
+<image path="images/titlepage.png" filesize="11963" filedate="2022-05-29 10:45:16" width="918px" height="1440px"/>
+</images>
